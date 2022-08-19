@@ -1,0 +1,10 @@
+2022-08-17T12:21:52.799490+00:00 app[worker.1]:     used: 1660738912124,
+2022-08-17T12:21:52.799490+00:00 app[worker.1]:     created: 1660738912124,
+2022-08-17T12:21:52.799491+00:00 app[worker.1]:     remoteIdentityKey: <Buffer 05 1b ca 25 40 66 84 14 f5 54 7b 73 72 73 41 bb cc a8 59 3d 09 e0 2c d3 cb e2 16 a1 6b d0 c8 dd 16>
+2022-08-17T12:21:52.799491+00:00 app[worker.1]:   }
+2022-08-17T12:21:52.799491+00:00 app[worker.1]: }
+2022-08-17T12:23:48.824112+00:00 heroku[worker.1]: Process running mem=1089M(212.8%)
+2022-08-17T12:23:48.830939+00:00 heroku[worker.1]: Error R15 (Memory quota vastly exceeded)
+2022-08-17T12:23:48.832796+00:00 heroku[worker.1]: Stopping process with SIGKILL
+2022-08-17T12:23:49.045714+00:00 heroku[worker.1]: Process exited with status 137
+2022-08-17T12:23:49.111777+00:00 heroku[worker.1]: State changed from up to crashed
